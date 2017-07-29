@@ -1,0 +1,19 @@
+{
+    "name": "jtony-seneca",
+    "version": "1.0.0",
+    "description": "Developing microservices with node.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "grunt validate --verbose"
+    },
+    "keywords": [
+        "seneca",
+        "microservices"
+    ],
+    "author": "jtony.net@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "seneca": "3.4.1"
+    }
+}
